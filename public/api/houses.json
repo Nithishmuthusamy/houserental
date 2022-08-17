@@ -1,0 +1,39 @@
+{
+    "data": [
+      {
+        "type": "house",
+        "id": "1",
+        "attributes":{
+      "src": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "number": 1,
+      "place": "New Delhi,India",
+      "noofguest": 4,
+      "rating": 4,
+      "rent": "₹300",
+      "description":"This is a wonderfull house build by british in 1900"
+    }
+      },
+      {
+        "type": "house",
+        "id": "2",
+        "attributes":{
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQFF0aiJVe177tP9DXW1vILi26LhvDD385IcG-PLfSXQMgmArjsdrL5bUXfSwDo5DFH_w&usqp=CAU",
+        "number": 2,
+        "place": "Punjab,India",
+        "noofguest": 2,
+        "rating": 5,
+        "rent": "₹500",
+        "description":"This is a wonderfull house build by british in 1900"}},
+        {
+          "type": "house",
+          "id":"3",
+          "attributes":{
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8J3lUfQNKEzliXyeefhMhHoxvmqYotQn5jOMCS8qJDJ-5FypKuFPYQCzBMxP9XaNR3i0&usqp=CAU",
+            "number": 3,
+            "place": "Chennai,India",
+            "noofguest": 2,
+            "rating": 5,
+            "rent": "₹500",
+            "description":"This is a wonderfull house build by british in 1900"
+            }}]
+}
