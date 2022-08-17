@@ -1,0 +1,16 @@
+{
+    "data": {
+      
+        "type": "house",
+        "id": "2",
+        "attributes":{
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQFF0aiJVe177tP9DXW1vILi26LhvDD385IcG-PLfSXQMgmArjsdrL5bUXfSwDo5DFH_w&usqp=CAU",
+        "number": 2,
+        "place": "Punjab,India",
+        "no_of_guest": 2,
+        "rating": 5,
+        "rent": "₹500",
+        "description":"This is a wonderfull house build by british in 1900"
+    
+      }}
+}
