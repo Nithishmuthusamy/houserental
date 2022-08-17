@@ -1,0 +1,37 @@
+{{page-title "Book"}}
+<div class="w-60 child_class mt-5" style="width: 60%;">
+<h1 class="mt-2 text-center font_style">Booking..</h1>
+  <div
+    class='container d-flex justify-content-start border border-2 rounded mt-5 p-5 w-50 border_style'
+  >
+    <form class=" form-group needs-validation "  novalidate action="http://localhost:4200/index">
+      <div class='container'>
+        <div class='row'>
+          <label>House Number</label>
+          <Input
+            @value={{@model.number}}
+            placeholder='House Number'
+            class='bg-warning bg-opacity-10 border_style form-control text-primary' required="" type="number"
+          /></div>
+        <div class='row'><label>Full Name</label>
+          <Input
+            required=""
+            class='bg-warning bg-opacity-10 border_style form-control text-primary'
+          /></div>
+        <div class='row'><label>Email</label>
+          <Input
+            class='bg-warning bg-opacity-10 border_style form-control text-primary'
+          /></div>
+        <div class='row'><label>Phone No</label>
+          <Input
+            class='bg-warning bg-opacity-10 border_style form-control text-primary'
+          /></div>
+        
+        <div class='row d-flex justify-content-center'>
+          <button
+            type='submit'
+            class='btn btn-danger mt-5 col-4'
+          >Book</button></div></div>
+    </form>
+</div>
+</div>
