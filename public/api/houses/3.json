@@ -1,0 +1,16 @@
+{
+    "data": 
+    {
+        "type": "house",
+        "id":"3",
+        "attributes":{
+          "src": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "number": 3,
+          "place": "Chennai,India",
+          "noofguest": 2,
+          "rating": 5,
+          "rent": "₹500",
+          "description":"This is a wonderfull house build by british in 1900"
+          }}
+    
+}

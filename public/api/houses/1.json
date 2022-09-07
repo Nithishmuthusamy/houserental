@@ -1,0 +1,17 @@
+{
+    "data": 
+      {
+        "type": "houses",
+        "id": "1",
+        "attributes":{
+      "src": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "number": 1,
+      "place": "New Delhi,India",
+      "noofguest": 4,
+      "rating": 4,
+      "rent": "₹300",
+      "description":"This is a wonderfull house listed in houserental website"
+    }
+      }
+    
+}
